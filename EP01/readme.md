@@ -39,7 +39,7 @@ POSSIBLE
 0 2
 1 3
 
-##Output 2
+## Output 2
 IMPOSSIBLE
 
 *Nordic Collegiate Programming Contest 2009*
