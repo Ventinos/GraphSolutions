@@ -45,3 +45,8 @@ POSSIBLE
 IMPOSSIBLE
 
 *Nordic Collegiate Programming Contest 2009*
+
+# Testing our solution:
+* make sure to open the directory /EP01
+* run ```make```
+* run ```./main``` 
